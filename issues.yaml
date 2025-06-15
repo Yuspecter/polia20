@@ -1,0 +1,27 @@
+tax_raise:
+  question: "消費税を増税すべき？"
+  weight: 1.0
+
+defense_spend:
+  question: "防衛費を GDP 比 2％超に増やすべき？"
+  weight: 1.0
+
+same_sex:
+  question: "同性婚を法律で認めるべき？"
+  weight: 1.0
+
+nuclear_restart:
+  question: "原発再稼働を進めるべき？"
+  weight: 1.0
+
+immigration:
+  question: "労働移民をもっと受け入れるべき？"
+  weight: 1.0
+
+carbon_tax:
+  question: "炭素税を導入すべき？"
+  weight: 1.0
+
+child_budget:
+  question: "子育て・教育予算を大幅に拡充すべき？"
+  weight: 1.0

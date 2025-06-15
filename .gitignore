@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.html
+member_base.csv
+*.old.py
+openai_key.txt
