@@ -1,4 +1,4 @@
 streamlit==1.35.0
 pandas==2.2.2
-openai>=1.14.0
+openai>=1.14.0   # ★ここを修正（末尾に改行を忘れずに）
 plotly==5.22.0
